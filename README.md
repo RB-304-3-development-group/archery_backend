@@ -8,7 +8,7 @@ This project may run in K8s in the future, therefore the branch naming needs to 
 - end with an alphanumeric character
 
 ## commit message convention
-Follow angular commit message convention
+Follow angular commit message 
 
 #### <a name="commit-header"></a>Commit Message Header
 
